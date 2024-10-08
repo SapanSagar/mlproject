@@ -1,10 +1,10 @@
 ## My Machine Learning Project
 
-Guide Step by STep
+#Guide Step by Step
 
-Create a Github Repo :-- MyProject
-Create a project folder on your system and open VS code in the same folder
-Create a vritual environment :
+#Create a Github Repo :-- #MyProject
+-Create a project folder on your system and open VS code in the same folder
+#Create a vritual environment :
 1.	python -m venv myenv
 2.	myenv\Scripts\activate   #activate your virtual environment
 Sync With Git Repo :
@@ -17,19 +17,24 @@ Sync With Git Repo :
 7.	git push -u origin main    # push changes to github repo
 
 Note : If doing for first time please use below two commands to sync your account before push
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
+-$ git config --global user.name "John Doe"
+-$ git config --global user.email johndoe@example.com
 
 
-Create .gitignore file in Github repo and select language as Python
+-Create .gitignore file in Github repo and select language as Python
 
-Git pull #to sync local with github
+Git pull to sync local with github
 
 ### Create Template file to define project structure
 
-### create requirements.txt
+# create requirements.txt
+
 -- add all libraries in file you need
+
 --add -e . to create package (will look for setup.py)
+
 -- pip install -r requirements.txt
+
+
 
 
