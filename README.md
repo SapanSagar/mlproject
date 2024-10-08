@@ -2,7 +2,7 @@
 
 Guide Step by STep
 
-Create a Github Repo : MyProject
+Create a Github Repo :-- MyProject
 Create a project folder on your system and open VS code in the same folder
 Create a vritual environment :
 1.	python -m venv myenv
