@@ -25,3 +25,11 @@ Create .gitignore file in Github repo and select language as Python
 
 Git pull #to sync local with github
 
+### Create Template file to define project structure
+
+### create requirements.txt
+-- add all libraries in file you need
+--add -e . to create package (will look for setup.py)
+-- pip install -r requirements.txt
+
+
