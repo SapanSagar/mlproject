@@ -1,4 +1,8 @@
 ##  Machine Learning Project
+This Project is step by step guide and will help people to learn how to create and deploy end to end ML Model.
+Here we are creating a ML Classification model using US VISA Data. Where we need to predict if Visa application will be approved or denied based on give features in data.
+
+- data link : https://www.kaggle.com/datasets/moro23/easyvisa-dataset
 
 # Guide Step by Step
 
