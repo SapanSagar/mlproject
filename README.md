@@ -5,6 +5,7 @@ Here we are creating a ML Classification model using US VISA Data. Where we need
 - data link : https://www.kaggle.com/datasets/moro23/easyvisa-dataset
 
 # Guide Step by Step
+## Project and enviornment setup
 
 # Create a virtual environment :
     - python -m venv myenv
@@ -36,6 +37,12 @@ Git pull to sync local with github
 
 - pip install -r requirements.txt
 
+## DataBase Setup
+Mongo DB Link : https://www.mongodb.com/?msockid=0ab9429ac85067b735f95183c956663f
+signin--    new project--Give Project Name--Next--add tea members if needed--create project--
+create cluster--select plan--name of cluster--select--AWS--create--create username and password for later access (dont share)--click on network acess-add IP Address--Allow access from anywhere--confirm--previous tab--create database user--choose a connection method--select options (driver)--copy connection string and keep it for later use
+
+--Refer Mongodb_demo.ipynb file for further steps on connection creation,load and read data 
 
 
 
