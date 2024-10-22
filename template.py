@@ -36,7 +36,7 @@ list_of_files=[
 
 ]
 
-'''for filepath in list_of_files:
+for filepath in list_of_files:
     filepath=Path(filepath)
     filedir,filename=os.path.split(filepath)
     if filepath != "":
@@ -45,9 +45,9 @@ list_of_files=[
         with open(filepath,'w') as f:
             pass
     else :
-        print("file already present at :{filepath}")'''
+        print("file already present at :{filepath}")
 
-for filepath in list_of_files:
+'''for filepath in list_of_files:
     filepath = Path(filepath)
     # Get the parent directory of the file
     filedir = filepath.parent
@@ -60,5 +60,5 @@ for filepath in list_of_files:
         with open(filepath, 'w') as f:
             pass
     else:
-        print(f"File already present at: {filepath}")
+        print(f"File already present at: {filepath}")'''
     
