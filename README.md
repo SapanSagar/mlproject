@@ -45,7 +45,10 @@ create cluster--select plan--name of cluster--select--AWS--create--create userna
 --Refer Mongodb_demo.ipynb file for further steps on connection creation,load and read data 
 
 ## Create Logger,Exception and Utility files
-- refer logger,exception and entity python files for detail also demo.py
+- refer logger,exception and utils python files for detail also demo.py
+
+## Initiate Problem understanding and EDA
+- refer eda.ipynb file for details
 
 
 
