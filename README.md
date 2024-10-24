@@ -18,7 +18,7 @@ Here we are creating a ML Classification model using US VISA Data. Where we need
     1.	git init   #initialize git 
     2.	create a README.md file in your VS code (Project Folder)
     3.	git add README.md  # add readme file to git
-    4.	git commit -m "first Commit"  (comiting changes)
+    4.	git commit -m "first Commit"  (commiting changes)
     5.	git branch -M main   (changing branch to main)
     6.	git remote add origin https://github.com/SapanSagar/mlproject.git  (sync with your repo)
     7.	git push -u origin main    (push changes to github repo)
